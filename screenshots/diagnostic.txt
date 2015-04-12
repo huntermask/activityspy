@@ -1,0 +1,8 @@
+--------- beginning of main
+--------- beginning of system
+I/MainActivity( 2850): onCreate event fired
+I/MainActivity( 2850): onStart event fired
+I/MainActivity( 2850): onResume event fired
+I/MainActivity( 2850): onPause event fired
+I/MainActivity( 2850): onStop event fired
+E/MainActivity( 2850): We’re going down, Captain!
